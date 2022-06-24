@@ -9,12 +9,12 @@ This looks very `computer science`-like
 Maybe some code for you?
 
 
-{%highlight python%}
+{% highlight python %}
 import numpy as np
 
 def msg():
- print("hElLo WoRlD! :-)")
-{%endhighlight%}
+   print("hElLo WoRlD! :-)")
+{% endhighlight %}
 
 
 ok let me see
