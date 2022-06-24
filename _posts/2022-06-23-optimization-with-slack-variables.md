@@ -9,7 +9,10 @@ And this looks very `computer science`-like
 Maybe some code for you?
 
 ```python
-print("hElLo WoRlD! :-)")
+import numpy as np
+
+def msg():
+ print("hElLo WoRlD! :-)")
 ```
 
 ok let me see
