@@ -1,10 +1,10 @@
 ## This is my first blog post
 
-and I am really excited about it
+...and I am really excited about it
 
 > This is a deep quote
 
-And this looks very `computer science`-like
+This looks very `computer science`-like
 
 Maybe some code for you?
 
