@@ -1,4 +1,3 @@
- \newcommand{\bx}{\bm{x}}
 ## This is my first blog post
 
 and I am really excited about it
