@@ -19,10 +19,11 @@ def msg():
 
 ok let me see
 
- ```tsql
- SELECT *
- FROM sys.tables
- WHERE [name] = 'SomeTable'
+ ```python
+import numpy as np
+
+def msg():
+   print("hElLo WoRlD! :-)")
  ```
  
  and let me also test some latex stuff like
