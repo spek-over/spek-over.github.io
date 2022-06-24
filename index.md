@@ -1,1 +1,1 @@
-a blog to share intuition about machine learning stuff
+a blog to share intuition about machine learning
